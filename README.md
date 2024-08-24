@@ -35,7 +35,7 @@ Este repositorio contiene un script de Node.js que utiliza Puppeteer para genera
   const outputPdfPath = 'C:/Users/evo_l/Desktop/CV/resume.pdf';
 - Ejecuta el script usando Node.js:
   ```bash
-  node convertToPdf.js.js
+  node convertToPdf.js
 - El PDF generado se guardará en la ubicación especificada.
 
   
