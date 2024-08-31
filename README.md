@@ -4,7 +4,7 @@ Este repositorio contiene un script de Node.js que utiliza Puppeteer para genera
 
 ## Vista Previa
 
-![Vista Previa](public/preview.png)
+![Vista Previa](resources/preview.png)
 
 ## Requisitos previos
 
